@@ -1,0 +1,10 @@
+1. A snowball is stuck if any two neighboring sides are blocked by a wall or obstacles. 
+For example, the snowball is at the corner, or the snowball has a wall to the right and an obstacle at the top.
+
+2. A snowball cannot reach the goal if it is located beside a wall and the goal is not beside that wall becuase snowballs beside a wall can only move alongside the wall.
+
+3. Prune as soon as an impossible state caused by the mentioned above is reached to save computation time.
+
+4. It takes extra steps to move stacked snowballs, so it is a great idea to reflect this on the manhattan distance by multiplying the distance.
+
+5. Check whether the snowball is at the destination first to avoid unnecessary computations.

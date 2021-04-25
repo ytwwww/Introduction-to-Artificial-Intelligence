@@ -1,0 +1,17 @@
+Line 1: expected <Detective : NN1> but got <Detective : NP0>
+Line 2: expected <Chief : AJ0> but got <Chief : NP0>
+Line 3: expected <Inspector : NN1> but got <Inspector : NP0>
+Line 11: expected <before : CJS> but got <before : PRP>
+Line 15: expected <thought : VVD> but got <thought : VVN>
+Line 38: expected <New : NP0> but got <New : AJ0>
+Line 52: expected <more : AV0> but got <more : DT0>
+Line 58: expected <on : PRP> but got <on : AVP>
+Line 106: expected <suit : NN1> but got <suit : VVI>
+Line 111: expected <to : TO0> but got <to : PRP>
+Line 119: expected <finished : VVN> but got <finished : VVD>
+Line 142: expected <pushed : VVN> but got <pushed : VVD>
+Line 165: expected <off : AVP> but got <off : PRP-AVP>
+Line 171: expected <to : TO0> but got <to : PRP>
+Total words seen: 202.
+Total matches: 188.
+93.06930693069307%
